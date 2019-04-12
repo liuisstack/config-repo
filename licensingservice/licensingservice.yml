@@ -1,6 +1,6 @@
-spring.cloud.config.allow-override= true
-spring.cloud.config.override-none= true
-spring.cloud.config.override-system-properties= false
+spring.cloud.config.allow-override: true
+spring.cloud.config.override-none: true
+spring.cloud.config.override-system-properties: false
 
 example.property: "I AM IN THE DEFAULT"
 spring.jpa.database: "POSTGRESQL"
